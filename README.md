@@ -100,5 +100,5 @@ This project can support:
 ## 📌 Author
 **Sarvesh Deepak Jathar**  
 Data Analytics Enthusiast | Python | SQL | Power BI  
-Let’s connect on [LinkedIn](https://www.linkedin.com)
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/sarvesh-jathar-04947b314/)
 
